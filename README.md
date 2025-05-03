@@ -13,8 +13,8 @@ A Chrome extension that adds a touch of visual chaos to your web browsing experi
 1. Clone or download this repo
 2. Unzip it somewhere fun.
 3. Open Chrome and go to `chrome://extensions`.
-4. Enable **Developer Mode**.
-5. Click **Load Unpacked** and select the unzipped folder.
+4. Enable Developer Mode.
+5. Click Load Unpacked and select the unzipped folder.
 6. Refresh any page and watch it ghost you.
 
 ## 🧠 Why?
