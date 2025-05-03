@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Now You See It",
+  "version": "1.0",
+  "description": "Words fade in and out as if they\u2019re vanishing like magic.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
